@@ -1,9 +1,7 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_ocr_sdk/mrz_result.dart';
-import 'package:flutter_ocr_sdk_example/result/result_page.dart';
-import 'package:flutter_ocr_sdk_example/result_page.dart';
+import 'package:flutter_ocr_sdk_example/es129/result/result_page.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ocr_sdk_example/tab_page.dart';
+import 'package:flutter_ocr_sdk_example/es129/global.dart';
+import 'package:flutter_ocr_sdk_example/es129/tab_page.dart';
 import 'dart:async';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'global.dart';
 
 Future<void> main() async {
   runApp(const MyApp());

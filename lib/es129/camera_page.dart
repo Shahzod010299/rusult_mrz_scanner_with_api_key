@@ -4,9 +4,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ocr_sdk/mrz_line.dart';
 import 'package:flutter_ocr_sdk/mrz_parser.dart';
-import 'package:flutter_ocr_sdk_example/result/result_page.dart';
-
-import 'camera/camera_manager.dart';
+import 'package:flutter_ocr_sdk_example/es129/camera/camera_manager.dart';
+import 'package:flutter_ocr_sdk_example/es129/result/result_page.dart';
 import 'global.dart';
 import 'dart:math';
 

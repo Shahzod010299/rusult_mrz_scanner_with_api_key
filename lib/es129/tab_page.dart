@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ocr_sdk_example/history_page.dart';
+import 'package:flutter_ocr_sdk_example/es129/history_page.dart';
 
 import 'about_page.dart';
 import 'home_page.dart';
